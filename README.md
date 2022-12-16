@@ -1,0 +1,3 @@
+- Junior Pursuing a BS in Computer Science at Utah Tech University.
+- I like embeded and I make bad PCBs 😎
+- Checkout my projects https://joshuajer.red/
